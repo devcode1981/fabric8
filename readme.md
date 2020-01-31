@@ -1,7 +1,7 @@
 fabric8
 =======
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.fabric8/fabric8-project/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.fabric8/fabric8-project/)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.fabric8/fabric8-project/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/io.fabric8/fabric8-project/) [![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/fabric8.svg)](https://greenkeeper.io/)
 ![Apache 2](http://img.shields.io/badge/license-Apache%202-red.svg)
 
 
